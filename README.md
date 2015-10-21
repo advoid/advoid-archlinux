@@ -15,4 +15,5 @@ This is the advoid implementation for archlinux.
 
 - [ ] Checking dnsmasq security features like DANE or DNSSEC
 - [ ] Writing some script to automate deploying
-- [ ] writing a service file for systemd for upgrading the host list
+- [ ] Writing a service file for systemd for upgrading the host list
+- [ ] Writing a tutorial guide for configuring dnsmasq (at the moment two lines)
